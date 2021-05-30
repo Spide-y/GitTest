@@ -6,6 +6,7 @@ public class Room {
     private int status;
     private String name;
     private String address;
+    private Integer phone;
 
     public int getNo() {
         return no;
