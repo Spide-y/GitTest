@@ -4,6 +4,7 @@ public class Room {
     private int no;
     private String type;
     private int status;
+    private String name;
 
     public int getNo() {
         return no;
