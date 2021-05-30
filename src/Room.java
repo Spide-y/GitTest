@@ -5,6 +5,7 @@ public class Room {
     private String type;
     private int status;
     private String name;
+    private String address;
 
     public int getNo() {
         return no;
